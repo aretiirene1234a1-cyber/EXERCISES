@@ -1,3 +1,6 @@
+
+Psarra Areti Eirini
+
 # EXERCISES
 Assignment 1
 Δημιουργήθηκε πρόγραμμα το οποίο δέχεται έναν ακέραιο Ν. 
