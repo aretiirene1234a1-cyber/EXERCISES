@@ -1,5 +1,4 @@
 
-Psarra Areti Eirini
 
 # EXERCISES
 Assignment 1
@@ -10,4 +9,6 @@ Assignment 1
 Assignment 2
 Δημιουργήθηκε πρόγραμμα που διαβάζει έναν αριθμό 4 ψηφίων
 και αντιστρέφει το πρώτο και το τελευταίο ψηφίο του. 
+
+Psarra Areti Eirini
 
